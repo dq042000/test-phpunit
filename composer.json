@@ -3,7 +3,7 @@
     "description": "a sample demo",
     "type": "project",
     "require-dev": {
-        "phpunit/phpunit": "*"
+        "phpunit/phpunit": "^10.4.1"
     },
     "license": "proprietary",
     "autoload": {

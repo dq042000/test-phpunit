@@ -1,0 +1,22 @@
+{
+    "name": "dq042000/test-phpunit",
+    "description": "a sample demo",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Dq042000\\TestPhpunit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dq042000",
+            "email": "dq042000@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
